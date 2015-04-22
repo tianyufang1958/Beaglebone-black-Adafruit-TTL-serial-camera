@@ -7,4 +7,6 @@ Connection:
 
 +5V - P9 7 (SYS_5V),    GND - P9 1 (GND),    RX - P9 24 (uart1_txd),    TX - P9 26 (uart1_rxd)
 
+c++ code for the image capture is modified from Nick's code, which is for linksprite camera (similar adafruit serial camera).
+https://github.com/nickpascucci/RobotCamera/blob/master/src/linksprite-tools/capture.cpp
 
