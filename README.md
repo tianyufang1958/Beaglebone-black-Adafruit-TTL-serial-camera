@@ -5,8 +5,6 @@ You can snap pictures at 640x480, 320x240 or 160x120 and they're pre-compressed 
 
 Connection:
 
-Camera  Beaglebone Black
-+5V     P9 7  (SYS_5V)
-GND     P9 1  (GND)
-RX      P9 24 (uart1_txd)
-TX      P9 26 (uart1_rxd)
++5V - P9 7 (SYS_5V),    GND - P9 1 (GND),    RX - P9 24 (uart1_txd),    TX - P9 26 (uart1_rxd)
+
+
